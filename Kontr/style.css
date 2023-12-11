@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto:wght@400;700&family=Ubuntu:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Open+Sans:wght@400;700&family=Roboto:wght@400;700&display=swap");
 
 body {
   font-size: 20px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 header {
-  font-family: "Roboto", sans-serif;
+  font-family: "Inter", sans-serif;
   text-align: center;
 }
 
@@ -15,7 +15,7 @@ header {
 .table-title,
 .image-title {
   font-size: 120%;
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Roboto", sans-serif;
   height: 30px;
   width: 200px;
   padding: 5px;
